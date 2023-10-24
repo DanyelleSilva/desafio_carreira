@@ -73,5 +73,3 @@ Um novo cofre foi desenvolvido com a mais moderna tecnologia em segurança e cri
 Durante alguns testes de rotina foi descoberto um bug na hora de validar a senha: O cofre ignora letras erradas durante a digitação da senha, já que todas as letras da senha foram digitadas na ordem correta.
 
 Por exemplo, se a senha para “cubos” e para “cuggbyos” digitados, o cofre irá abrir.
-
-##### teste: https://www.hackerrank.com/contests/desafio-de-logica-modulo-1-b2b-t11-dbe-ifood/challenges
